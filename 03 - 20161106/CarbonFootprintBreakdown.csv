@@ -1,0 +1,73 @@
+FeatureCode,DateCode,Measurement,Units,Value,Breakdown of Scotland's carbon footprint
+S92000003,2008,Count,Mt Co2Equiv,46.102,Embedded in imported goods and services
+S92000003,2001,Count,Mt Co2Equiv,34.693,Embedded in imported goods and services
+S92000003,2007,Count,Mt Co2Equiv,51.135,Embedded in imported goods and services
+S92000003,2002,Count,Mt Co2Equiv,36.802,Embedded in imported goods and services
+S92000003,2003,Count,Mt Co2Equiv,37.5,Embedded in imported goods and services
+S92000003,2000,Count,Mt Co2Equiv,34.068,Embedded in imported goods and services
+S92000003,1998,Count,Mt Co2Equiv,33.334,Embedded in imported goods and services
+S92000003,2009,Count,Mt Co2Equiv,40.224,Embedded in imported goods and services
+S92000003,1999,Count,Mt Co2Equiv,32.909,Embedded in imported goods and services
+S92000003,2014,Count,Mt Co2Equiv,40.075,Embedded in imported goods and services
+S92000003,2012,Count,Mt Co2Equiv,39.605,Embedded in imported goods and services
+S92000003,2015,Count,Mt Co2Equiv,41.436,Embedded in imported goods and services
+S92000003,2011,Count,Mt Co2Equiv,40.951,Embedded in imported goods and services
+S92000003,2010,Count,Mt Co2Equiv,39.915,Embedded in imported goods and services
+S92000003,2006,Count,Mt Co2Equiv,48.294,Embedded in imported goods and services
+S92000003,2005,Count,Mt Co2Equiv,44.977,Embedded in imported goods and services
+S92000003,2013,Count,Mt Co2Equiv,38.139,Embedded in imported goods and services
+S92000003,2004,Count,Mt Co2Equiv,41.918,Embedded in imported goods and services
+S92000003,2009,Count,Mt Co2Equiv,13.263,Directly produced by Scottish residents
+S92000003,2000,Count,Mt Co2Equiv,13.229,Directly produced by Scottish residents
+S92000003,2008,Count,Mt Co2Equiv,13.604,Directly produced by Scottish residents
+S92000003,1999,Count,Mt Co2Equiv,13.372,Directly produced by Scottish residents
+S92000003,1998,Count,Mt Co2Equiv,13.421,Directly produced by Scottish residents
+S92000003,2005,Count,Mt Co2Equiv,13.744,Directly produced by Scottish residents
+S92000003,2007,Count,Mt Co2Equiv,13.451,Directly produced by Scottish residents
+S92000003,2010,Count,Mt Co2Equiv,14.086,Directly produced by Scottish residents
+S92000003,2006,Count,Mt Co2Equiv,13.636,Directly produced by Scottish residents
+S92000003,2015,Count,Mt Co2Equiv,12.332,Directly produced by Scottish residents
+S92000003,2014,Count,Mt Co2Equiv,12.055,Directly produced by Scottish residents
+S92000003,2013,Count,Mt Co2Equiv,13.263,Directly produced by Scottish residents
+S92000003,2011,Count,Mt Co2Equiv,12.162,Directly produced by Scottish residents
+S92000003,2012,Count,Mt Co2Equiv,13.145,Directly produced by Scottish residents
+S92000003,2004,Count,Mt Co2Equiv,13.715,Directly produced by Scottish residents
+S92000003,2003,Count,Mt Co2Equiv,13.414,Directly produced by Scottish residents
+S92000003,2002,Count,Mt Co2Equiv,13.424,Directly produced by Scottish residents
+S92000003,2001,Count,Mt Co2Equiv,13.868,Directly produced by Scottish residents
+S92000003,1998,Count,Mt Co2Equiv,83.078,Total Carbon Footprint
+S92000003,2002,Count,Mt Co2Equiv,82.593,Total Carbon Footprint
+S92000003,1999,Count,Mt Co2Equiv,79.452,Total Carbon Footprint
+S92000003,2001,Count,Mt Co2Equiv,82.497,Total Carbon Footprint
+S92000003,2000,Count,Mt Co2Equiv,80.845,Total Carbon Footprint
+S92000003,2003,Count,Mt Co2Equiv,84.094,Total Carbon Footprint
+S92000003,2004,Count,Mt Co2Equiv,88.226,Total Carbon Footprint
+S92000003,2005,Count,Mt Co2Equiv,90.424,Total Carbon Footprint
+S92000003,2006,Count,Mt Co2Equiv,95.441,Total Carbon Footprint
+S92000003,2007,Count,Mt Co2Equiv,97.744,Total Carbon Footprint
+S92000003,2011,Count,Mt Co2Equiv,80.227,Total Carbon Footprint
+S92000003,2008,Count,Mt Co2Equiv,91.558,Total Carbon Footprint
+S92000003,2010,Count,Mt Co2Equiv,82.659,Total Carbon Footprint
+S92000003,2009,Count,Mt Co2Equiv,82.001,Total Carbon Footprint
+S92000003,2012,Count,Mt Co2Equiv,79.636,Total Carbon Footprint
+S92000003,2013,Count,Mt Co2Equiv,77.216,Total Carbon Footprint
+S92000003,2014,Count,Mt Co2Equiv,76.484,Total Carbon Footprint
+S92000003,2015,Count,Mt Co2Equiv,76.465,Total Carbon Footprint
+S92000003,2000,Count,Mt Co2Equiv,33.548,UK produced goods and services consumed by Scottish residents
+S92000003,2001,Count,Mt Co2Equiv,33.936,UK produced goods and services consumed by Scottish residents
+S92000003,2006,Count,Mt Co2Equiv,33.511,UK produced goods and services consumed by Scottish residents
+S92000003,1999,Count,Mt Co2Equiv,33.171,UK produced goods and services consumed by Scottish residents
+S92000003,2002,Count,Mt Co2Equiv,32.367,UK produced goods and services consumed by Scottish residents
+S92000003,2003,Count,Mt Co2Equiv,33.181,UK produced goods and services consumed by Scottish residents
+S92000003,2004,Count,Mt Co2Equiv,32.592,UK produced goods and services consumed by Scottish residents
+S92000003,2005,Count,Mt Co2Equiv,31.703,UK produced goods and services consumed by Scottish residents
+S92000003,2007,Count,Mt Co2Equiv,33.158,UK produced goods and services consumed by Scottish residents
+S92000003,2009,Count,Mt Co2Equiv,28.514,UK produced goods and services consumed by Scottish residents
+S92000003,2008,Count,Mt Co2Equiv,31.852,UK produced goods and services consumed by Scottish residents
+S92000003,2014,Count,Mt Co2Equiv,24.354,UK produced goods and services consumed by Scottish residents
+S92000003,2010,Count,Mt Co2Equiv,28.658,UK produced goods and services consumed by Scottish residents
+S92000003,2011,Count,Mt Co2Equiv,27.114,UK produced goods and services consumed by Scottish residents
+S92000003,2015,Count,Mt Co2Equiv,22.698,UK produced goods and services consumed by Scottish residents
+S92000003,1998,Count,Mt Co2Equiv,36.323,UK produced goods and services consumed by Scottish residents
+S92000003,2013,Count,Mt Co2Equiv,25.813,UK produced goods and services consumed by Scottish residents
+S92000003,2012,Count,Mt Co2Equiv,26.887,UK produced goods and services consumed by Scottish residents
