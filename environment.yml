@@ -1,7 +1,8 @@
 name: l4w_env
 channels:
-  - conda-forge
+  - defaults
 dependencies:
-  - numpy
+  - python=3.7
+  - pip
   - matplotlib
   - pandas
