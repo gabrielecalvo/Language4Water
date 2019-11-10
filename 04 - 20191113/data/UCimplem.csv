@@ -1,0 +1,381 @@
+﻿Country,Province,Code,County,UC implem
+United Kingdom,England,E06000001,Hartlepool,Mar-15
+United Kingdom,England,E06000002,Middlesbrough,Nov-15
+United Kingdom,England,E06000003,Redcar and Cleveland,Oct-15
+United Kingdom,England,E06000004,Stockton-on-Tees,Sep-15
+United Kingdom,England,E06000005,Darlington,Jul-15
+United Kingdom,England,E06000006,Halton,Oct-13
+United Kingdom,England,E06000007,Warrington,Aug-13
+United Kingdom,England,E06000008,Blackburn with Darwen,Nov-14
+United Kingdom,England,E06000009,Blackpool,Oct-14
+United Kingdom,England,E06000010,"Kingston upon Hull, City of",May-15
+United Kingdom,England,E06000011,East Riding of Yorkshire,Jul-15
+United Kingdom,England,E06000012,North East Lincolnshire,May-15
+United Kingdom,England,E06000013,North Lincolnshire,Jul-15
+United Kingdom,England,E06000014,York,Mar-14
+United Kingdom,England,E06000015,Derby,Aug-15
+United Kingdom,England,E06000016,Leicester,Oct-15
+United Kingdom,England,E06000017,Rutland,Nov-15
+United Kingdom,England,E06000018,Nottingham,Apr-15
+United Kingdom,England,E06000019,"Herefordshire, County of",Apr-15
+United Kingdom,England,E06000020,Telford and Wrekin,Jun-15
+United Kingdom,England,E06000021,Stoke-on-Trent,Dec-14
+United Kingdom,England,E06000022,Bath and North East Somerset,Mar-14
+United Kingdom,England,E06000023,"Bristol, City of",Feb-15
+United Kingdom,England,E06000024,North Somerset,Mar-15
+United Kingdom,England,E06000025,South Gloucestershire,Mar-15
+United Kingdom,England,E06000026,Plymouth,Apr-15
+United Kingdom,England,E06000027,Torbay,Aug-15
+United Kingdom,England,E06000028,Bournemouth,Jul-15
+United Kingdom,England,E06000029,Poole,Jul-15
+United Kingdom,England,E06000030,Swindon,Feb-15
+United Kingdom,England,E06000031,Peterborough,Nov-15
+United Kingdom,England,E06000032,Luton,Jan-16
+United Kingdom,England,E06000033,Southend-on-Sea,May-15
+United Kingdom,England,E06000034,Thurrock,Apr-15
+United Kingdom,England,E06000035,Medway,Sep-15
+United Kingdom,England,E06000036,Bracknell Forest,Oct-15
+United Kingdom,England,E06000037,West Berkshire,Apr-15
+United Kingdom,England,E06000038,Reading,Dec-14
+United Kingdom,England,E06000039,Slough,Jul-15
+United Kingdom,England,E06000040,Windsor and Maidenhead,Oct-15
+United Kingdom,England,E06000041,Wokingham,Oct-15
+United Kingdom,England,E06000042,Milton Keynes,Feb-15
+United Kingdom,England,E06000043,Brighton and Hove,May-15
+United Kingdom,England,E06000044,Portsmouth,Apr-15
+United Kingdom,England,E06000045,Southampton,Apr-15
+United Kingdom,England,E06000046,Isle of Wight,Jun-15
+United Kingdom,England,E06000047,County Durham,Apr-15
+United Kingdom,England,E06000057,Northumberland,Jul-15
+United Kingdom,England,E06000049,Cheshire East,Aug-14
+United Kingdom,England,E06000050,Cheshire West and Chester,Mar-14
+United Kingdom,England,E06000051,Shropshire,May-15
+United Kingdom,England,E06000052,Cornwall,Jun-15
+United Kingdom,England,E06000053,Isles of Scilly,Sep-16
+United Kingdom,England,E06000054,Wiltshire,Jun-14
+United Kingdom,England,E06000055,Bedford,Mar-15
+United Kingdom,England,E06000056,Central Bedfordshire,Jul-15
+United Kingdom,England,E07000004,Aylesbury Vale,Dec-15
+United Kingdom,England,E07000005,Chiltern,Dec-15
+United Kingdom,England,E07000006,South Bucks,Nov-15
+United Kingdom,England,E07000007,Wycombe,Sep-15
+United Kingdom,England,E07000008,Cambridge,May-15
+United Kingdom,England,E07000009,East Cambridgeshire,Feb-16
+United Kingdom,England,E07000010,Fenland,Nov-15
+United Kingdom,England,E07000011,Huntingdonshire,Aug-15
+United Kingdom,England,E07000012,South Cambridgeshire,Jan-16
+United Kingdom,England,E07000026,Allerdale,Jan-15
+United Kingdom,England,E07000027,Barrow-in-Furness,Dec-14
+United Kingdom,England,E07000028,Carlisle,Jan-15
+United Kingdom,England,E07000029,Copeland,Jan-15
+United Kingdom,England,E07000030,Eden,Jan-15
+United Kingdom,England,E07000031,South Lakeland,Jan-15
+United Kingdom,England,E07000032,Amber Valley,Nov-15
+United Kingdom,England,E07000033,Bolsover,Aug-15
+United Kingdom,England,E07000034,Chesterfield,Apr-15
+United Kingdom,England,E07000035,Derbyshire Dales,Dec-15
+United Kingdom,England,E07000036,Erewash,Mar-15
+United Kingdom,England,E07000037,High Peak,Mar-15
+United Kingdom,England,E07000038,North East Derbyshire,Jul-15
+United Kingdom,England,E07000039,South Derbyshire,Sep-15
+United Kingdom,England,E07000040,East Devon,Jul-15
+United Kingdom,England,E07000041,Exeter,Aug-15
+United Kingdom,England,E07000042,Mid Devon,Dec-15
+United Kingdom,England,E07000043,North Devon,Nov-15
+United Kingdom,England,E07000044,South Hams,Dec-15
+United Kingdom,England,E07000045,Teignbridge,Nov-15
+United Kingdom,England,E07000046,Torridge,May-15
+United Kingdom,England,E07000047,West Devon,Aug-15
+United Kingdom,England,E07000048,Christchurch,Jul-15
+United Kingdom,England,E07000049,East Dorset,Aug-15
+United Kingdom,England,E07000050,North Dorset,Aug-15
+United Kingdom,England,E07000051,Purbeck,Jul-15
+United Kingdom,England,E07000052,West Dorset,Nov-15
+United Kingdom,England,E07000053,Weymouth and Portland,Sep-15
+United Kingdom,England,E07000061,Eastbourne,Jun-15
+United Kingdom,England,E07000062,Hastings,May-15
+United Kingdom,England,E07000063,Lewes,Jun-15
+United Kingdom,England,E07000064,Rother,May-15
+United Kingdom,England,E07000065,Wealden,Jun-15
+United Kingdom,England,E07000066,Basildon,Apr-15
+United Kingdom,England,E07000067,Braintree,Jul-15
+United Kingdom,England,E07000068,Brentwood,Apr-15
+United Kingdom,England,E07000069,Castle Point,Jun-15
+United Kingdom,England,E07000070,Chelmsford,Jul-15
+United Kingdom,England,E07000071,Colchester,Apr-15
+United Kingdom,England,E07000072,Epping Forest,Jan-16
+United Kingdom,England,E07000073,Harlow,Feb-16
+United Kingdom,England,E07000074,Maldon,Oct-15
+United Kingdom,England,E07000075,Rochford,Nov-15
+United Kingdom,England,E07000076,Tendring,Nov-14
+United Kingdom,England,E07000077,Uttlesford,Nov-15
+United Kingdom,England,E07000078,Cheltenham,Jun-15
+United Kingdom,England,E07000079,Cotswold,May-15
+United Kingdom,England,E07000080,Forest of Dean,May-15
+United Kingdom,England,E07000081,Gloucester,Jul-15
+United Kingdom,England,E07000082,Stroud,Jun-15
+United Kingdom,England,E07000083,Tewkesbury,Jun-15
+United Kingdom,England,E07000084,Basingstoke and Deane,Sep-15
+United Kingdom,England,E07000085,East Hampshire,Mar-16
+United Kingdom,England,E07000086,Eastleigh,May-15
+United Kingdom,England,E07000087,Fareham,Oct-15
+United Kingdom,England,E07000088,Gosport,Apr-16
+United Kingdom,England,E07000089,Hart,Apr-16
+United Kingdom,England,E07000090,Havant,Dec-15
+United Kingdom,England,E07000091,New Forest,Oct-15
+United Kingdom,England,E07000092,Rushmoor,Aug-15
+United Kingdom,England,E07000093,Test Valley,Oct-15
+United Kingdom,England,E07000094,Winchester,Oct-15
+United Kingdom,England,E07000095,Broxbourne,Jul-15
+United Kingdom,England,E07000096,Dacorum,Aug-15
+United Kingdom,England,E07000242,East Hertfordshire,Nov-15
+United Kingdom,England,E07000098,Hertsmere,Oct-15
+United Kingdom,England,E07000099,North Hertfordshire,Feb-16
+United Kingdom,England,E07000243,Stevenage,Jul-15
+United Kingdom,England,E07000102,Three Rivers,Dec-15
+United Kingdom,England,E07000103,Watford,Dec-15
+United Kingdom,England,E07000105,Ashford,May-15
+United Kingdom,England,E07000106,Canterbury,Aug-15
+United Kingdom,England,E07000107,Dartford,Nov-15
+United Kingdom,England,E07000108,Dover,Aug-15
+United Kingdom,England,E07000109,Gravesham,Jun-15
+United Kingdom,England,E07000110,Maidstone,Apr-15
+United Kingdom,England,E07000111,Sevenoaks,Oct-15
+United Kingdom,England,E07000112,Folkestone and Hythe (Shepway),Aug-15
+United Kingdom,England,E07000113,Swale,Apr-15
+United Kingdom,England,E07000114,Thanet,Jun-15
+United Kingdom,England,E07000115,Tonbridge and Malling,Sep-15
+United Kingdom,England,E07000116,Tunbridge Wells,Nov-15
+United Kingdom,England,E07000117,Burnley,Oct-14
+United Kingdom,England,E07000118,Chorley,Nov-14
+United Kingdom,England,E07000119,Fylde,Dec-14
+United Kingdom,England,E07000120,Hyndburn,Nov-14
+United Kingdom,England,E07000121,Lancaster,Nov-14
+United Kingdom,England,E07000122,Pendle,Oct-14
+United Kingdom,England,E07000123,Preston,Aug-14
+United Kingdom,England,E07000124,Ribble Valley,Dec-14
+United Kingdom,England,E07000125,Rossendale,Oct-14
+United Kingdom,England,E07000126,South Ribble,Aug-14
+United Kingdom,England,E07000127,West Lancashire,Aug-13
+United Kingdom,England,E07000128,Wyre,Nov-14
+United Kingdom,England,E07000129,Blaby,May-15
+United Kingdom,England,E07000130,Charnwood,Apr-15
+United Kingdom,England,E07000131,Harborough,Mar-15
+United Kingdom,England,E07000132,Hinckley and Bosworth,Apr-15
+United Kingdom,England,E07000133,Melton,Mar-15
+United Kingdom,England,E07000134,North West Leicestershire,Oct-15
+United Kingdom,England,E07000135,Oadby and Wigston,Feb-16
+United Kingdom,England,E07000136,Boston,May-15
+United Kingdom,England,E07000137,East Lindsey,Jul-15
+United Kingdom,England,E07000138,Lincoln,Oct-15
+United Kingdom,England,E07000139,North Kesteven,Oct-15
+United Kingdom,England,E07000140,South Holland,Nov-15
+United Kingdom,England,E07000141,South Kesteven,Apr-15
+United Kingdom,England,E07000142,West Lindsey,Aug-15
+United Kingdom,England,E07000143,Breckland,May-15
+United Kingdom,England,E07000144,Broadland,Nov-15
+United Kingdom,England,E07000145,Great Yarmouth,Sep-15
+United Kingdom,England,E07000146,King's Lynn and West Norfolk,Sep-15
+United Kingdom,England,E07000147,North Norfolk,Oct-15
+United Kingdom,England,E07000148,Norwich,Nov-15
+United Kingdom,England,E07000149,South Norfolk,Oct-15
+United Kingdom,England,E07000150,Corby,Apr-15
+United Kingdom,England,E07000151,Daventry,Mar-15
+United Kingdom,England,E07000152,East Northamptonshire,Nov-15
+United Kingdom,England,E07000153,Kettering,Jun-15
+United Kingdom,England,E07000154,Northampton,May-15
+United Kingdom,England,E07000155,South Northamptonshire,Nov-15
+United Kingdom,England,E07000156,Wellingborough,Oct-15
+United Kingdom,England,E07000163,Craven,Mar-15
+United Kingdom,England,E07000164,Hambleton,Mar-15
+United Kingdom,England,E07000165,Harrogate,Mar-14
+United Kingdom,England,E07000166,Richmondshire,Jun-15
+United Kingdom,England,E07000167,Ryedale,Mar-15
+United Kingdom,England,E07000168,Scarborough,Mar-15
+United Kingdom,England,E07000169,Selby,Aug-15
+United Kingdom,England,E07000170,Ashfield,Jul-15
+United Kingdom,England,E07000171,Bassetlaw,Mar-15
+United Kingdom,England,E07000172,Broxtowe,Sep-15
+United Kingdom,England,E07000173,Gedling,Jul-15
+United Kingdom,England,E07000174,Mansfield,Sep-15
+United Kingdom,England,E07000175,Newark and Sherwood,Aug-15
+United Kingdom,England,E07000176,Rushcliffe,Mar-16
+United Kingdom,England,E07000177,Cherwell,May-15
+United Kingdom,England,E07000178,Oxford,May-15
+United Kingdom,England,E07000179,South Oxfordshire,May-15
+United Kingdom,England,E07000180,Vale of White Horse,May-15
+United Kingdom,England,E07000181,West Oxfordshire,May-15
+United Kingdom,England,E07000187,Mendip,Sep-14
+United Kingdom,England,E07000188,Sedgemoor,Apr-15
+United Kingdom,England,E07000189,South Somerset,May-15
+United Kingdom,England,E07000190,Taunton Deane,May-15
+United Kingdom,England,E07000191,West Somerset,May-15
+United Kingdom,England,E07000192,Cannock Chase,Jan-16
+United Kingdom,England,E07000193,East Staffordshire,May-15
+United Kingdom,England,E07000194,Lichfield,Apr-15
+United Kingdom,England,E07000195,Newcastle-under-Lyme,Apr-15
+United Kingdom,England,E07000196,South Staffordshire,Sep-15
+United Kingdom,England,E07000197,Stafford,Jun-15
+United Kingdom,England,E07000198,Staffordshire Moorlands,Jun-15
+United Kingdom,England,E07000199,Tamworth,Apr-15
+United Kingdom,England,E07000200,Babergh,Nov-15
+United Kingdom,England,E07000201,Forest Heath,May-15
+United Kingdom,England,E07000202,Ipswich,Oct-15
+United Kingdom,England,E07000203,Mid Suffolk,Oct-15
+United Kingdom,England,E07000204,St Edmundsbury,May-15
+United Kingdom,England,E07000205,Suffolk Coastal,May-15
+United Kingdom,England,E07000206,Waveney,Apr-15
+United Kingdom,England,E07000207,Elmbridge,Mar-16
+United Kingdom,England,E07000208,Epsom and Ewell,Feb-16
+United Kingdom,England,E07000209,Guildford,Feb-15
+United Kingdom,England,E07000210,Mole Valley,Mar-16
+United Kingdom,England,E07000211,Reigate and Banstead,Jun-15
+United Kingdom,England,E07000212,Runnymede,Oct-15
+United Kingdom,England,E07000213,Spelthorne,Nov-15
+United Kingdom,England,E07000214,Surrey Heath,Mar-16
+United Kingdom,England,E07000215,Tandridge,Nov-15
+United Kingdom,England,E07000216,Waverley,Mar-16
+United Kingdom,England,E07000217,Woking,Oct-15
+United Kingdom,England,E07000218,North Warwickshire,Jul-15
+United Kingdom,England,E07000219,Nuneaton and Bedworth,May-15
+United Kingdom,England,E07000220,Rugby,Dec-13
+United Kingdom,England,E07000221,Stratford-on-Avon,Mar-15
+United Kingdom,England,E07000222,Warwick,Nov-14
+United Kingdom,England,E07000223,Adur,Nov-15
+United Kingdom,England,E07000224,Arun,Nov-15
+United Kingdom,England,E07000225,Chichester,Sep-15
+United Kingdom,England,E07000226,Crawley,Oct-15
+United Kingdom,England,E07000227,Horsham,Oct-15
+United Kingdom,England,E07000228,Mid Sussex,Oct-15
+United Kingdom,England,E07000229,Worthing,Nov-15
+United Kingdom,England,E07000234,Bromsgrove,Sep-15
+United Kingdom,England,E07000235,Malvern Hills,Nov-15
+United Kingdom,England,E07000236,Redditch,Mar-15
+United Kingdom,England,E07000237,Worcester,Oct-15
+United Kingdom,England,E07000238,Wychavon,Sep-15
+United Kingdom,England,E07000239,Wyre Forest,Oct-15
+United Kingdom,England,E07000240,St Albans,Jun-15
+United Kingdom,England,E07000241,Welwyn Hatfield,Sep-15
+United Kingdom,England,E08000001,Bolton,Apr-14
+United Kingdom,England,E08000002,Bury,Feb-14
+United Kingdom,England,E08000003,Manchester,Aug-13
+United Kingdom,England,E08000004,Oldham,Aug-13
+United Kingdom,England,E08000005,Rochdale,Nov-13
+United Kingdom,England,E08000006,Salford,Nov-13
+United Kingdom,England,E08000007,Stockport,Oct-13
+United Kingdom,England,E08000008,Tameside,May-13
+United Kingdom,England,E08000009,Trafford,Nov-13
+United Kingdom,England,E08000010,Wigan,Jul-13
+United Kingdom,England,E08000011,Knowsley,Aug-14
+United Kingdom,England,E08000012,Liverpool,Feb-14
+United Kingdom,England,E08000013,St. Helens,Aug-13
+United Kingdom,England,E08000014,Sefton,Jul-14
+United Kingdom,England,E08000015,Wirral,Jul-14
+United Kingdom,England,E08000016,Barnsley,Mar-15
+United Kingdom,England,E08000017,Doncaster,Feb-15
+United Kingdom,England,E08000018,Rotherham,Sep-15
+United Kingdom,England,E08000019,Sheffield,Nov-14
+United Kingdom,England,E08000037,Gateshead,Feb-15
+United Kingdom,England,E08000021,Newcastle upon Tyne,May-15
+United Kingdom,England,E08000022,North Tyneside,Feb-15
+United Kingdom,England,E08000023,South Tyneside,May-15
+United Kingdom,England,E08000024,Sunderland,Jun-15
+United Kingdom,England,E08000025,Birmingham,Aug-14
+United Kingdom,England,E08000026,Coventry,Dec-14
+United Kingdom,England,E08000027,Dudley,Apr-15
+United Kingdom,England,E08000028,Sandwell,Jul-15
+United Kingdom,England,E08000029,Solihull,Jun-15
+United Kingdom,England,E08000030,Walsall,Jun-15
+United Kingdom,England,E08000031,Wolverhampton,Aug-15
+United Kingdom,England,E08000032,Bradford,Jan-15
+United Kingdom,England,E08000033,Calderdale,Feb-15
+United Kingdom,England,E08000034,Kirklees,Mar-15
+United Kingdom,England,E08000035,Leeds,Feb-14
+United Kingdom,England,E08000036,Wakefield,Mar-15
+United Kingdom,England,E09000001,City of London,Jun-15
+United Kingdom,England,E09000002,Barking and Dagenham,Aug-15
+United Kingdom,England,E09000003,Barnet,Feb-15
+United Kingdom,England,E09000004,Bexley,Dec-15
+United Kingdom,England,E09000005,Brent,Mar-15
+United Kingdom,England,E09000006,Bromley,May-15
+United Kingdom,England,E09000007,Camden,May-15
+United Kingdom,England,E09000008,Croydon,Feb-15
+United Kingdom,England,E09000009,Ealing,Oct-14
+United Kingdom,England,E09000010,Enfield,Aug-15
+United Kingdom,England,E09000011,Greenwich,Aug-15
+United Kingdom,England,E09000012,Hackney,Jun-15
+United Kingdom,England,E09000013,Hammersmith and Fulham,Nov-13
+United Kingdom,England,E09000014,Haringey,Jul-15
+United Kingdom,England,E09000015,Harrow,Aug-15
+United Kingdom,England,E09000016,Havering,Aug-15
+United Kingdom,England,E09000017,Hillingdon,Sep-15
+United Kingdom,England,E09000018,Hounslow,Feb-14
+United Kingdom,England,E09000019,Islington,Jun-15
+United Kingdom,England,E09000020,Kensington and Chelsea,Dec-13
+United Kingdom,England,E09000021,Kingston upon Thames,Oct-15
+United Kingdom,England,E09000022,Lambeth,Jun-15
+United Kingdom,England,E09000023,Lewisham,Apr-15
+United Kingdom,England,E09000024,Merton,Jun-15
+United Kingdom,England,E09000025,Newham,Jul-15
+United Kingdom,England,E09000026,Redbridge,Jul-15
+United Kingdom,England,E09000027,Richmond upon Thames,Jan-15
+United Kingdom,England,E09000028,Southwark,May-15
+United Kingdom,England,E09000029,Sutton,Dec-14
+United Kingdom,England,E09000030,Tower Hamlets,Jan-15
+United Kingdom,England,E09000031,Waltham Forest,Aug-14
+United Kingdom,England,E09000032,Wandsworth,Sep-14
+United Kingdom,England,E09000033,Westminster,Mar-15
+United Kingdom,Scotland,S12000005,Clackmannanshire,Jun-15
+United Kingdom,Scotland,S12000006,Dumfries and Galloway,May-15
+United Kingdom,Scotland,S12000008,East Ayrshire,Jun-15
+United Kingdom,Scotland,S12000010,East Lothian,May-15
+United Kingdom,Scotland,S12000011,East Renfrewshire,Sep-15
+United Kingdom,Scotland,S12000013,Na h-Eileanan Siar,Jun-15
+United Kingdom,Scotland,S12000014,Falkirk,Jun-15
+United Kingdom,Scotland,S12000047,Fife,Feb-15
+United Kingdom,Scotland,S12000017,Highland,Dec-13
+United Kingdom,Scotland,S12000018,Inverclyde,Nov-15
+United Kingdom,Scotland,S12000019,Midlothian,May-15
+United Kingdom,Scotland,S12000020,Moray,Jul-15
+United Kingdom,Scotland,S12000021,North Ayrshire,Feb-15
+United Kingdom,Scotland,S12000023,Orkney Islands,Jun-15
+United Kingdom,Scotland,S12000048,Perth and Kinross,Aug-15
+United Kingdom,Scotland,S12000026,Scottish Borders,May-15
+United Kingdom,Scotland,S12000027,Shetland Islands,Jun-15
+United Kingdom,Scotland,S12000028,South Ayrshire,Oct-15
+United Kingdom,Scotland,S12000029,South Lanarkshire,May-15
+United Kingdom,Scotland,S12000030,Stirling,Jun-15
+United Kingdom,Scotland,S12000033,Aberdeen City,Jul-15
+United Kingdom,Scotland,S12000034,Aberdeenshire,Jun-15
+United Kingdom,Scotland,S12000035,Argyll and Bute,Sep-15
+United Kingdom,Scotland,S12000036,City of Edinburgh,Mar-15
+United Kingdom,Scotland,S12000038,Renfrewshire,May-15
+United Kingdom,Scotland,S12000039,West Dunbartonshire,Apr-15
+United Kingdom,Scotland,S12000040,West Lothian,Oct-15
+United Kingdom,Scotland,S12000041,Angus,Aug-15
+United Kingdom,Scotland,S12000042,Dundee City,Sep-15
+United Kingdom,Scotland,S12000044,North Lanarkshire,Mar-15
+United Kingdom,Scotland,S12000045,East Dunbartonshire,Aug-15
+United Kingdom,Scotland,S12000046,Glasgow City,Nov-14
+United Kingdom,Wales,W06000001,Isle of Anglesey,May-15
+United Kingdom,Wales,W06000002,Gwynedd ,Nov-15
+United Kingdom,Wales,W06000003,Conwy ,Apr-15
+United Kingdom,Wales,W06000004,Denbighshire ,Apr-14
+United Kingdom,Wales,W06000005,Flintshire,May-14
+United Kingdom,Wales,W06000006,Wrexham,Apr-15
+United Kingdom,Wales,W06000008,Ceredigion ,Oct-15
+United Kingdom,Wales,W06000009,Pembrokeshire ,Oct-15
+United Kingdom,Wales,W06000010,Carmarthenshire ,Jun-15
+United Kingdom,Wales,W06000011,Swansea,Aug-15
+United Kingdom,Wales,W06000012,Neath Port Talbot ,May-15
+United Kingdom,Wales,W06000013,Bridgend ,Jul-15
+United Kingdom,Wales,W06000014,Vale of Glamorgan,Sep-15
+United Kingdom,Wales,W06000015,Cardiff ,Jul-15
+United Kingdom,Wales,W06000016,Rhondda Cynon Taf ,Jun-15
+United Kingdom,Wales,W06000018,Caerphilly ,May-15
+United Kingdom,Wales,W06000019,Blaenau Gwent,Oct-15
+United Kingdom,Wales,W06000020,Torfaen ,May-15
+United Kingdom,Wales,W06000021,Monmouthshire,Jun-15
+United Kingdom,Wales,W06000022,Newport ,Jul-15
+United Kingdom,Wales,W06000023,Powys ,Jun-15
+United Kingdom,Wales,W06000024,Merthyr Tydfil ,Oct-15
