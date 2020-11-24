@@ -6,4 +6,5 @@ dependencies:
   - pip
   - matplotlib
   - pandas
+  - ipywidgets
   - voila
