@@ -1,4 +1,5 @@
 pandas
+matplotlib
 ipywidgets
 voila
 voila-material
