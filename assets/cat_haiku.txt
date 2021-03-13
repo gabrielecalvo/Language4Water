@@ -1,8 +1,7 @@
-Good Morning Haiku From the Cat
-===============================
+# Good Morning Haiku From the Cat
+# source: https://examples.yourdictionary.com/20-funny-haiku-poems-examples-for-all-ages.html
+# ===============================
 
 In the morning light,
-
 You sleep despite my meow.
-
 I stand on your face.
