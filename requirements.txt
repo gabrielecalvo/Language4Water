@@ -1,5 +1,7 @@
+jupyterlab
 pandas
 matplotlib
+plotly
 ipywidgets
 voila
 voila-material

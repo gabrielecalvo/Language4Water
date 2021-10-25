@@ -1,0 +1,120 @@
+{
+  "objects": {
+    "93898BB7805": {
+      "points": {
+        "ActivePower": [
+          {
+            "objectId": "93898BB7805",
+            "pointName": "ActivePower",
+            "aggregate": "TIMEAVERAGE",
+            "timeSeries": [
+              {
+                "t": 1634050402953,
+                "q": 524480,
+                "v": -23.4,
+                "t_local": "2021-10-12T15:53:22.9533107+01:00"
+              },
+              {
+                "t": 1634051002953,
+                "q": 524352,
+                "v": -23.1,
+                "t_local": "2021-10-12T16:03:22.9533107+01:00"
+              }
+            ],
+            "from": "2021-10-12T14:53:22.9533107Z",
+            "to": "2021-10-12T15:13:22.9533107Z",
+            "interval": "10m",
+            "resultId": 0,
+            "isHdaCompatible": true
+          }
+        ],
+        "WindSpeed": [
+          {
+            "objectId": "93898BB7805",
+            "pointName": "WindSpeed",
+            "aggregate": "TIMEAVERAGE",
+            "timeSeries": [
+              {
+                "t": 1634050402953,
+                "q": 524480,
+                "v": 2.72,
+                "t_local": "2021-10-12T15:53:22.9533107+01:00"
+              },
+              {
+                "t": 1634051002953,
+                "q": 524352,
+                "v": 2.84,
+                "t_local": "2021-10-12T16:03:22.9533107+01:00"
+              }
+            ],
+            "from": "2021-10-12T14:53:22.9533107Z",
+            "to": "2021-10-12T15:13:22.9533107Z",
+            "interval": "10m",
+            "resultId": 0,
+            "isHdaCompatible": true
+          }
+        ]
+      }
+    },
+    "93898BA002": {
+      "points": {
+        "ActivePower": [
+          {
+            "objectId": "93898BA002",
+            "pointName": "ActivePower",
+            "aggregate": "TIMEAVERAGE",
+            "timeSeries": [
+              {
+                "t": 1634050402953,
+                "q": 524480,
+                "v": -21.0,
+                "t_local": "2021-10-12T15:53:22.9533107+01:00"
+              },
+              {
+                "t": 1634051002953,
+                "q": 524352,
+                "v": -21.0,
+                "t_local": "2021-10-12T16:03:22.9533107+01:00"
+              }
+            ],
+            "from": "2021-10-12T14:53:22.9533107Z",
+            "to": "2021-10-12T15:13:22.9533107Z",
+            "interval": "10m",
+            "resultId": 0,
+            "isHdaCompatible": true
+          }
+        ],
+        "WindSpeed": [
+          {
+            "objectId": "93898BA002",
+            "pointName": "WindSpeed",
+            "aggregate": "TIMEAVERAGE",
+            "timeSeries": [
+              {
+                "t": 1634050402953,
+                "q": 524480,
+                "v": 2.91,
+                "t_local": "2021-10-12T15:53:22.9533107+01:00"
+              },
+              {
+                "t": 1634051002953,
+                "q": 524352,
+                "v": 2.78,
+                "t_local": "2021-10-12T16:03:22.9533107+01:00"
+              }
+            ],
+            "from": "2021-10-12T14:53:22.9533107Z",
+            "to": "2021-10-12T15:13:22.9533107Z",
+            "interval": "10m",
+            "resultId": 0,
+            "isHdaCompatible": true
+          }
+        ]
+      }
+    }
+  },
+  "replyInfo": {
+    "rcvTime": 1634051602943,
+    "replyTime": 1634051602963
+  }
+}
