@@ -1,0 +1,10 @@
+0	1	2	3	4	5	6	contains_grey_word	found_words
+henchmen	<s>The Third Reich finally lowers its flag, Hitler and his henchmen are rendered harmless.</s>	View	2020	2349222	IRE	NONE	True	flag, it
+either	<s>The Spanish electoral system does not favor them either.</s>	The Outlook	2021	3218937	UK	NONE	True	it, either
+either	<s>Without knowing how many people we are talking about either.</s>	The Outlook	2021	3999237	UK	NONE	True	it, either
+either	<s>And electric trucks equipped for equipment either.</s>	Euromag	2020	7182040	UK	NONE	True	it, either
+either	<s>Many of our new customers since confinement either.</s>	The Tribune	2020	7790669	UK	NONE	True	it, either
+or not	<s>Is it a big gap or not that much?</s>	Cinema Times	2020	8162203	UK	NONE	True	it
+or not	<s>Each character has their own vision of what they think should or should not be done.</s>	Cinema Times	2021	8384123	UK	NONE	False	
+or not	<s>Many are for having the freedom to wear it or not.</s>	Gazette	2021	8923223	USA	NONE	True	it
+or not	<s>We could find him a local accent or not.</s>	Euromag	2021	9401415	UK	NONE	False	
