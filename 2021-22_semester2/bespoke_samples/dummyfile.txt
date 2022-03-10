@@ -1,4 +1,4 @@
-﻿henchmen	<s>The Third Reich finally lowers its flag, Hitler and his henchmen are rendered harmless.</s>	View	2020	2349222	IRE	NONE
+henchmen	<s>The Third Reich finally lowers its flag, Hitler and his henchmen are rendered harmless.</s>	View	2020	2349222	IRE	NONE
 either	<s>The Spanish electoral system does not favor them either.</s>	The Outlook	2021	3218937	UK	NONE
 either	<s>Without knowing how many people we are talking about either.</s>	The Outlook	2021	3999237	UK	NONE
 either	<s>And electric trucks equipped for equipment either.</s>	Euromag	2020	7182040	UK	NONE
