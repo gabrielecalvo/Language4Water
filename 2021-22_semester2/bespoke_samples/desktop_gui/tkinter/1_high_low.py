@@ -1,9 +1,7 @@
 from tkinter import *
 from tkinter.messagebox import showinfo, showerror
 
-# from tkinter import ttk
 import random
-from turtle import bgcolor
 
 cards = {"shown": random.randint(1, 13), "secret": random.randint(1, 13)}
 
