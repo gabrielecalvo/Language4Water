@@ -1,0 +1,9 @@
+[flake8]
+show_source = True
+statistics = True
+max-complexity = 10
+max-cognitive-complexity = 7
+max-line-length = 88
+count = True
+extend-ignore = E203, E712, W503
+exclude = __ignore__
