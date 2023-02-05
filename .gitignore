@@ -1,5 +1,6 @@
 # custom
 *.slides.html
+original/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
