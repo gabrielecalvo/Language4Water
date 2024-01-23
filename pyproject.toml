@@ -1,0 +1,77 @@
+[tool.poetry]
+name = "l4w_python_course"
+version = "1.0.0"
+description = "Python4Water 2022/23 Summer Semester"
+authors = ["Gabriele Calvo <gcalvo87@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+jupyterlab = ">=3.2.8"
+PySimpleGUI = ">=4.57.0"
+pandas = ">=1.4.1"
+
+[tool.poetry.group.dev.dependencies]
+poethepoet = ">=0.12.2"
+ruff = ">=0.1.14"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+show-fixes = true
+
+[tool.ruff.lint]
+select = [ # see https://beta.ruff.rs/docs/rules/
+  "A", "E", "F", "UP", "I", "W", "SIM", "RUF", "C901"
+]
+ignore = [
+  "A002", # Argument `id` is shadowing a Python builtin
+  "A003", # Class attribute `...` is shadowing a Python builtin
+  "RUF012", # Mutable class attributes should be annotated with `typing.ClassVar`
+]
+exclude = [
+    ".venv",
+    "__ignore__",
+]
+
+[tool.mypy]
+plugins = ["pydantic.mypy"]
+python_version = "3.10"
+ignore_missing_imports = true
+disallow_untyped_defs = true
+exclude = "tests|__ignore__|.venv"
+
+[tool.pytest.ini_options]
+addopts = "--random-order-seed=424242"
+markers = ["integration: mark a test that needs analytics api running"]
+filterwarnings = [
+    "error",
+]
+
+[tool.poe.tasks]
+
+intro_slides = {shell = "poetry run jupyter nbconvert 01_L4W_Intro.ipynb --to slides --post serve", help="Launches Intro slides"}
+export = {shell = "poetry export -f requirements.txt --output requirements.txt", help="Exports requirements.txt"}
+
+[tool.poe.tasks.jupy]
+help = "Starts Jupyterlab Server"
+shell = "poetry run jupyter lab"
+
+lint.help = "Formats and lints the files"
+lint.sequence = [
+    { cmd = "poetry run ruff format ." },
+    { cmd = "poetry run ruff check . --fix"},
+    { cmd = "poetry run mypy ."},
+]
+
+[tool.poe.tasks.test]
+help="Runs tests"
+shell = "pytest ."
+
+[tool.poe.tasks.all]
+help = "Gets files ready to be committed"
+sequence = ["lint", "test"]
+
