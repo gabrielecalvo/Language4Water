@@ -5,22 +5,25 @@ from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 from matplotlib.figure import Figure
 
 from flask import Flask
+
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route("/")
 def hello_world():
     return """
     Hello there<br><br>
     <img src="/plot.png" alt="my plot">
     """
 
-@app.route('/plot.png')
+
+@app.route("/plot.png")
 def plot_png():
     fig = create_figure()
     output = io.BytesIO()
     FigureCanvas(fig).print_png(output)
-    return Response(output.getvalue(), mimetype='image/png')
+    return Response(output.getvalue(), mimetype="image/png")
+
 
 def create_figure():
     fig = Figure()
@@ -31,11 +34,6 @@ def create_figure():
     ax.grid(True)
     return fig
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     app.run(debug=True)
-
-
-
-
-
-

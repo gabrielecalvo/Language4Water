@@ -1,22 +1,21 @@
-[tool.poetry]
+[project]
 name = "l4w_python_course"
 version = "1.0.0"
-description = "Python4Water 2022/23 Summer Semester"
-authors = ["Gabriele Calvo <gcalvo87@gmail.com>"]
+description = "Python4Water"
+authors = [{ name = "Gabriele Calvo", email = "gcalvo87@gmail.com" }]
+requires-python = ">=3.10"
+dependencies = [
+    "jupyterlab>=4.5.0",
+]
 
-[tool.poetry.dependencies]
-python = ">=3.9"
-jupyterlab = ">=3.2.8"
-PySimpleGUI = ">=4.57.0"
-pandas = ">=1.4.1"
-
-[tool.poetry.group.dev.dependencies]
-poethepoet = ">=0.12.2"
-ruff = ">=0.1.14"
-
-[build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+[dependency-groups]
+dev = [
+    "mypy>=1.19.0",
+    "poethepoet>=0.12.2",
+    "pytest>=9.0.2",
+    "pytest-random-order>=1.2.0",
+    "ruff>=0.1.14",
+]
 
 [tool.ruff]
 line-length = 120
@@ -51,20 +50,16 @@ filterwarnings = [
     "error",
 ]
 
-[tool.poe.tasks]
-
-intro_slides = {shell = "poetry run jupyter nbconvert 01_L4W_Intro.ipynb --to slides --post serve", help="Launches Intro slides"}
-export = {shell = "poetry export -f requirements.txt --output requirements.txt", help="Exports requirements.txt"}
-
 [tool.poe.tasks.jupy]
 help = "Starts Jupyterlab Server"
-shell = "poetry run jupyter lab"
+shell = "uv run jupyter lab"
 
-lint.help = "Formats and lints the files"
-lint.sequence = [
-    { cmd = "poetry run ruff format ." },
-    { cmd = "poetry run ruff check . --fix"},
-    { cmd = "poetry run mypy ."},
+[tool.poe.tasks.lint]
+help = "Formats and lints the files"
+sequence = [
+    { cmd = "uv run ruff format ." },
+    { cmd = "uv run ruff check . --fix"},
+    { cmd = "uv run mypy ."},
 ]
 
 [tool.poe.tasks.test]
@@ -74,4 +69,3 @@ shell = "pytest ."
 [tool.poe.tasks.all]
 help = "Gets files ready to be committed"
 sequence = ["lint", "test"]
-

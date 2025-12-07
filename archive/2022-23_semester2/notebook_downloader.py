@@ -4,6 +4,7 @@ from pathlib import Path
 from urllib.request import urlopen, urlretrieve
 import time
 
+
 class MyGithubRepoPageParser(HTMLParser):
     _tag = "a"
     _class = "js-navigation-open Link--primary"
@@ -23,19 +24,15 @@ def _build_dowload_url(github_fld: str):
     return download_url
 
 
-def download_all_repo_fld(
-    src_github_fld: str, dst_local_fld: Path, extensions: tuple[str]
-) -> None:
+def download_all_repo_fld(src_github_fld: str, dst_local_fld: Path, extensions: tuple[str]) -> None:
     print(f"requesting github page: {src_github_fld}")
     with urlopen(src_github_fld) as response:
         body = response.read().decode()
 
     parser = MyGithubRepoPageParser()
     parser.feed(body)
-    download_urls = [
-        _build_dowload_url(i) for i in parser.found if i.endswith(extensions)
-    ]
-    show_fpaths ='\n'.join(download_urls)
+    download_urls = [_build_dowload_url(i) for i in parser.found if i.endswith(extensions)]
+    show_fpaths = "\n".join(download_urls)
     print(f"downloading the following files: {show_fpaths}")
 
     dst_local_fld.mkdir(exist_ok=True)
@@ -47,9 +44,7 @@ def download_all_repo_fld(
 
 
 if __name__ == "__main__":
-    SOURCE_GITHUB_REPO_FOLDER = (
-        "https://github.com/gabrielecalvo/Language4Water/tree/main/2022-23_semester2"
-    )
+    SOURCE_GITHUB_REPO_FOLDER = "https://github.com/gabrielecalvo/Language4Water/tree/main/2022-23_semester2"
     DESTINATION_FOLDER = Path(__file__).parent / "original"
 
     download_all_repo_fld(

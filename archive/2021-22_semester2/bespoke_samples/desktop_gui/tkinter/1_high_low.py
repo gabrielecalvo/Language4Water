@@ -12,9 +12,7 @@ window.geometry("300x100")
 Label(window, text="The shown card is, ").grid(row=0, column=0)
 shown_card_label = Label(window, text=cards["shown"])
 shown_card_label.grid(row=0, column=1)
-Label(window, text="Is the next one going to be higher or lower?").grid(
-    row=1, column=0, columnspan=2
-)
+Label(window, text="Is the next one going to be higher or lower?").grid(row=1, column=0, columnspan=2)
 
 
 def clicked(chosen):
@@ -31,12 +29,8 @@ def clicked(chosen):
     shown_card_label.configure(text=cards["shown"])
 
 
-Button(
-    window, text="Lower", command=lambda: clicked("lower"), background="green3"
-).grid(row=2, column=0)
-Button(
-    window, text="Higher", command=lambda: clicked("higher"), background="red3"
-).grid(row=2, column=1)
+Button(window, text="Lower", command=lambda: clicked("lower"), background="green3").grid(row=2, column=0)
+Button(window, text="Higher", command=lambda: clicked("higher"), background="red3").grid(row=2, column=1)
 
 
 def on_closing():
